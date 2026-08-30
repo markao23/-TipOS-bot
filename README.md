@@ -142,4 +142,3 @@ Licença
 Este repositório segue a licença MIT (adicionar arquivo LICENSE se desejar).
 
 ----
-Gerado automaticamente: documentação base para um bot de slash commands em Python focado em versionamento e automação. Se quiser, eu crio também exemplos de `src/cogs/*` reais e gero o diagrama PNG para você.
